@@ -1,0 +1,17 @@
+.banner{
+    background: url("gambar/bg-marpol.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    align-items: center;
+    color: rgb(253, 253, 253);
+}
+
+.tab1 {
+    text-indent: 50px;
+}
+
+.text-bold-black {
+    color: black;
+    font-weight: bold;
+}
